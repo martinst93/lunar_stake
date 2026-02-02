@@ -66,10 +66,8 @@ LUNAR_STAKE_CASINO/
 │   │
 │   ├── effects/                  # Visual-only effects
 │   │   └── StarField.tsx
-│   │
-│   └── ui/                       # Base UI components
-│       ├── CarouselCard.tsx
-│       └── GameCard.tsx
+│
+│
 │
 ├── constants/                    # Static content & icons
 │   ├── Icons.ts
